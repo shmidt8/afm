@@ -689,3 +689,12 @@ ul.social-buttons li a {
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #a45d86;
 }
+.contacts{
+  text-align: center;
+}
+.contacts h2{
+  color: #a45d86;
+}
+.contacts p{
+  color: #fff;
+}
